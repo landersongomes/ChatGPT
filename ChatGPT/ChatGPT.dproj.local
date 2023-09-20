@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/27 16:14:14.000.006,=C:\Users\lande\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/27 16:21:34.000.116,C:\Users\lande\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\lande\Documents\Embarcadero\Studio\Projects\CPBR15\ChatGPT\View.FormPrincipal.fmx</Transaction>
+    <Transaction>2023/07/27 16:21:34.000.116,C:\Users\lande\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\lande\Documents\Embarcadero\Studio\Projects\CPBR15\ChatGPT\View.FormPrincipal.pas</Transaction>
+    <Transaction>2023/07/27 16:21:52.000.102,C:\Users\lande\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\lande\Documents\Embarcadero\Studio\Projects\CPBR15\ChatGPT\ChatGPT.dproj</Transaction>
+    <Transaction>2023/07/27 16:23:08.000.748,=C:\Users\lande\Documents\Embarcadero\Studio\Projects\CPBR15\ChatGPT\src\View.FormPrincipal.pas</Transaction>
+    <Transaction>2023/09/12 20:39:45.116,=C:\Users\lande\Documents\Embarcadero\Studio\Projects\CPBR15\ChatGPT\ModelSupport_ChatGPT\default.txaPackage</Transaction>
+    <Transaction>2023/09/12 20:39:48.920,=C:\Users\lande\Documents\Embarcadero\Studio\Projects\CPBR15\ChatGPT\ModelSupport_ChatGPT\default.txvpck</Transaction>
+    <Transaction>2023/09/12 20:40:03.600,=C:\Users\lande\Documents\Embarcadero\Studio\Projects\CPBR15\ChatGPT\ModelSupport_ChatGPT\ChatGPT\default.txvpck</Transaction>
+    <Transaction>2023/09/12 20:40:06.372,=C:\Users\lande\Documents\Embarcadero\Studio\Projects\CPBR15\ChatGPT\ModelSupport_ChatGPT\View\default.txvpck</Transaction>
+    <Transaction>2023/09/12 20:40:09.445,=C:\Users\lande\Documents\Embarcadero\Studio\Projects\CPBR15\ChatGPT\ModelSupport_ChatGPT\View\FormPrincipal\default.txvpck</Transaction>
+    <Transaction>2023/09/12 20:40:11.541,=C:\Users\lande\Documents\Embarcadero\Studio\Projects\CPBR15\ChatGPT\ModelSupport_ChatGPT\View\FormPrincipal\default.txaPackage</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
