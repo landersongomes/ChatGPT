@@ -38,7 +38,7 @@ type
   end;
 
 const
-  API_TOKEN = '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';
+  API_TOKEN = '[YOUR_KEY]';
 
 var
   FormPrincipal: TFormPrincipal;
